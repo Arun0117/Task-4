@@ -22,6 +22,6 @@ Create a basic Java-based notes manager that allows users to:
 
 ## 🖼️ Screenshot
 
-![NotesApp Screenshot]()
+![NotesApp Screenshot](Output)
 
 
